@@ -8,3 +8,6 @@ pip install django
 # Install Django REST Framework
 pip install djangorestframework
 
+# Project Details 
+  CRUD APIs for App User 
+  CRUD APIs for Bus Information
